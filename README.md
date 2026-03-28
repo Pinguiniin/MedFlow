@@ -1,4 +1,4 @@
-# MedFlow: Sistema de Gestão de Filas e Feedback para UBS
+# MedFlow
 
 ## Sobre o Projeto
 Este projeto foi desenvolvido para a disciplina de Usina de Projetos Experimentais I (UPX I). O nosso principal objetivo é desenvolver um sistema que permita aos pacientes acompanhar sua posição na fila da UBS e fornecer feedback sobre o atendimento.
