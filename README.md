@@ -1,16 +1,16 @@
-# 🏥 MedFlow
+# MedFlow
 
 **Sistema de Gestão de Filas e Feedback para UBS**
 
 ---
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido para a disciplina de Usina de Projetos Experimentais I (UPX I). O nosso principal objetivo é desenvolver um sistema que permita aos pacientes acompanhar sua posição na fila da UBS e fornecer feedback sobre o atendimento.
 
 A solução utiliza plataformas *low code/no code* para criar um Produto Mínimo Viável (MVP) que resolve um problema crônico de logística no atendimento público de saúde: a falta de previsibilidade nas filas e a escassez de dados estruturados para a gestão.
 
-## 👥 Equipe Click Byte
+## Equipe Click Byte
 
 Este projeto foi desenvolvido pelos alunos:
 
@@ -21,7 +21,7 @@ Este projeto foi desenvolvido pelos alunos:
 * Raphael do Santos
 * Vítor Zan
 
-## 🛠️ Funcionalidades do MVP e Tecnologias
+## Funcionalidades do MVP e Tecnologias
 
 Para alcançar nosso objetivo, implementaremos as seguintes funcionalidades:
 
@@ -33,20 +33,20 @@ Para alcançar nosso objetivo, implementaremos as seguintes funcionalidades:
 * **Plataforma de Desenvolvimento:** [Inserir ferramenta]
 * **Gestão do Projeto:** Metodologias Ágeis utilizando Trello
 
-## 🌍 Impacto Social (ODS)
+## Impacto Social (ODS)
 
 O sistema busca humanizar o atendimento e otimizar recursos, alinhando-se aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU:
 
 * **ODS 3:** Saúde e Bem-Estar.
 * **ODS 16:** Paz, Justiça e Instituições Eficazes (transparência e eficiência em instituições públicas).
 
-## 🎨 Protótipo de Interface (UI/UX)
+## Protótipo de Interface (UI/UX)
 
 O design das telas e o fluxo de navegação do aplicativo foram desenvolvidos no Figma.
 
-🔗 **[Acessar Protótipo no Figma](https://www.figma.com/make/U2mrWrfeIeoJwvnx4yyAb1/Hospital-Check-in-App?p=f&t=5kHQXmxwswEJyfPu-0)**
+ **[Acessar Protótipo no Figma](https://www.figma.com/make/U2mrWrfeIeoJwvnx4yyAb1/Hospital-Check-in-App?p=f&t=5kHQXmxwswEJyfPu-0)**
 
-## 🔄 Fluxo Logístico de Atendimento
+## Fluxo Logístico de Atendimento
 
 *[Insira a imagem do seu fluxograma aqui: ![Fluxograma](link-da-imagem)]*
 
@@ -58,7 +58,7 @@ O MedFlow otimiza a jornada na UBS através do seguinte fluxo:
 4. **Avaliação (Saída):** Após a consulta, o aplicativo libera um formulário rápido de feedback sobre a infraestrutura e o tempo de espera.
 5. **Geração de Dados:** As informações alimentam o painel do gestor simultaneamente.
 
-## 📖 Como Utilizar
+## Como Utilizar
 
 **Para o Paciente:**
 * Acesse o aplicativo ou leia o QR Code na recepção da UBS.
@@ -72,7 +72,7 @@ O MedFlow otimiza a jornada na UBS através do seguinte fluxo:
 * Visualize os indicadores em tempo real: número de pacientes na fila, tempo médio de espera por setor e relatórios de satisfação.
 * Utilize os dados para realocar profissionais em horários de pico.
 
-## 📊 Estudo de Mercado e Proposta de Valor
+## Estudo de Mercado e Proposta de Valor
 
 O desenvolvimento do MedFlow foi embasado em um diagnóstico das necessidades do Sistema Único de Saúde (SUS) no âmbito municipal.
 
@@ -87,6 +87,6 @@ O MedFlow transforma a fila física em uma fila digital transparente. Ao fornece
 
 ---
 
-## 🚀 Acesso ao MVP (End Game)
+## Acesso ao MVP (End Game)
 
 *Em breve: O link para a versão funcional do aplicativo desenvolvido em [Nome da Ferramenta Low-Code] será disponibilizado aqui.*
