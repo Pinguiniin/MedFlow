@@ -11,7 +11,6 @@ Funcionalidades do MVP
   Para alcançar nosso objetivo, implementaremos as seguintes funcionalidades:
     Monitoramento: Acompanhamento em tempo real da posição na fila para os pacientes.
     Feedback do Usuário: Sistema de avaliação ao final do atendimento sobre tempo de espera, infraestrutura, etc.
-    Dashboard Administrativo: Gerar relatórios e indicadores para auxiliar gestores na tomada de decisões.
 
 Tecnologias Utilizadas
   Plataforma de Desenvolvimento: (Inserir ferramenta)
