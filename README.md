@@ -7,6 +7,11 @@ Este projeto foi desenvolvido para a disciplina de Usina de Projetos Experimenta
 
 A solução utiliza plataformas *low code/no code* para criar um Produto Mínimo Viável (MVP) que resolve um problema crônico de logística no atendimento público de saúde: a falta de previsibilidade nas filas e a escassez de dados estruturados para a gestão.
 
+Protótipo de Interface (UI/UX)
+  O design das telas e o fluxo de navegação do aplicativo foram desenvolvidos no Figma.
+    Você pode interagir com o protótipo completo acessando o link abaixo:
+      [Acessar Protótipo no Figma](https://www.figma.com/make/U2mrWrfeIeoJwvnx4yyAb1/Hospital-Check-in-App?p=f&t=5kHQXmxwswEJyfPu-0)
+
 Funcionalidades do MVP
   Para alcançar nosso objetivo, implementaremos as seguintes funcionalidades:
     Monitoramento: Acompanhamento em tempo real da posição na fila para os pacientes.
