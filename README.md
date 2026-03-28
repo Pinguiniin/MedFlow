@@ -6,13 +6,13 @@ Este projeto foi desenvolvido para a disciplina de Usina de Projetos Experimenta
 A solução utiliza plataformas *low code/no code* para criar um Produto Mínimo Viável (MVP) que resolve um problema crônico de logística no atendimento público de saúde: a falta de previsibilidade nas filas e a escassez de dados estruturados para a gestão.
 
 ## Equipe Click Byte
-[cite_start]Este projeto foi desenvolvido pelos alunos[cite: 37]:
-* [cite_start]Ana Laura [cite: 37]
-* [cite_start]Celso Toledo [cite: 37]
-* [cite_start]José Leonardo [cite: 37]
-* [cite_start]Márcia Regina [cite: 37]
-* [cite_start]Raphael do Santos [cite: 37]
-* [cite_start]Vítor Zan [cite: 37]
+Este projeto foi desenvolvido pelos alunos
+  Ana Laura
+  Celso Toledo
+  José Leonardo
+  Márcia Regina
+  Raphael do Santos
+  Vítor Zan
 
 ## Funcionalidades do MVP e Tecnologias
 Para alcançar nosso objetivo, implementaremos as seguintes funcionalidades:
