@@ -103,7 +103,7 @@ A arquitetura do MedFlow fundamenta-se em um diagnóstico das restrições logí
 * **Perspectiva da Gestão:** Déficit de inteligência de dados gerenciais em tempo real. A ausência de métricas digitalizadas impede a rápida identificação de estrangulamentos na cadeia de atendimento.
 
 **A Solução MedFlow:**
-O projeto digitaliza o sequenciamento do atendimento. Ao prover previsibilidade ao paciente, eleva-se a percepção de qualidade do serviço público. Paralelamente, os gestores são municiados com relatórios estruturados, permitindo alocações logísticas precisas e otimização dos recursos operacionais da UBS.
+* O projeto digitaliza o sequenciamento do atendimento. Ao prover previsibilidade ao paciente, eleva-se a percepção de qualidade do serviço público. Paralelamente, os gestores são municiados com relatórios estruturados, permitindo alocações logísticas precisas e otimização dos recursos operacionais da UBS.
 
 ---
 
