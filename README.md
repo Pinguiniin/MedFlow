@@ -1,4 +1,4 @@
-# MedFlow:
+# MedFlow
 ---
 
 ## Visão Geral do Projeto
