@@ -6,10 +6,7 @@
 
 ## Sobre o Projeto
 
-Este projeto foi desenvolvido para a disciplina de Usina de Projetos Experimentais I (UPX I). O nosso principal objetivo é desenvolver um sistema que permita aos pacientes acompanhar sua posição na fila da UB<img width="730" height="911" alt="imagem_2026-03-28_192901183" src="https://github.com/user-attachments/assets/66332666-de6e-4f8b-ad9e-8fe5b364ab5e" />
-<img width="807" height="912" alt="imagem_2026-03-28_192842956" src="https://github.com/user-attachments/assets/29931530-1f88-46a1-adda-1ce6c6689b8b" />
-<img width="804" height="823" alt="imagem_2026-03-28_192822530" src="https://github.com/user-attachments/assets/f3769c01-26c3-4a49-9061-532016e29118" />
-S e fornecer feedback sobre o atendimento.
+Este projeto foi desenvolvido para a disciplina de Usina de Projetos Experimentais I (UPX I). O nosso principal objetivo é desenvolver um sistema que permita aos pacientes acompanhar sua posição na fila da UBS e fornecer feedback sobre o atendimento.
 
 A solução utiliza plataformas *low code/no code* para criar um Produto Mínimo Viável (MVP) que resolve um problema crônico de logística no atendimento público de saúde: a falta de previsibilidade nas filas e a escassez de dados estruturados para a gestão.
 
