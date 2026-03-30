@@ -60,16 +60,16 @@ Abaixo está o mapeamento visual da jornada do paciente:
 
 ```mermaid
 graph TD
-    A([📍 Paciente chega à UBS]) --> B[Totem / Recepção]
+    A([Paciente chega à UBS]) --> B[Totem / Recepção]
     B --> C(Faz o Check-in)
     C --> D{Recebe Link}
     D -->|Via QR Code ou SMS| E[Entra na Fila Virtual]
-    E --> F[📱 Acompanha Posição no MedFlow]
+    E --> F[Acompanha Posição no MedFlow]
     F --> G{Chegou a vez?}
     G -->|Ainda não| F
     G -->|Sim!| H[Notificação de Chamada]
-    H --> I[🩺 Atendimento no Consultório]
+    H --> I[Atendimento no Consultório]
     I --> J[Formulário de Feedback Liberado]
     J --> K(Paciente Avalia a Experiência)
-    K --> L[(📊 Dashboard do Gestor)]
+    K --> L[(Dashboard do Gestor)]
     E -.->|Atualiza a fila em tempo real| L
