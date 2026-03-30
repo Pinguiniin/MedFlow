@@ -13,7 +13,6 @@ A solução utiliza plataformas *low code/no code* para criar um Produto Mínimo
 ## Equipe Click Byte
 
 Este projeto foi desenvolvido pelos alunos:
-
 * Ana Laura
 * Celso Toledo
 * José Leonardo
@@ -24,33 +23,40 @@ Este projeto foi desenvolvido pelos alunos:
 ## Funcionalidades do MVP e Tecnologias
 
 Para alcançar nosso objetivo, implementaremos as seguintes funcionalidades:
-
 * **Monitoramento:** Acompanhamento em tempo real da posição na fila para os pacientes.
 * **Feedback do Usuário:** Sistema de avaliação ao final do atendimento sobre tempo de espera, infraestrutura, etc.
 
 **Tecnologias Utilizadas:**
-
 * **Plataforma de Desenvolvimento:** Figma (Protótipo Interativo / MVP)
 * **Gestão do Projeto:** Metodologias Ágeis utilizando Trello
 
 ## Impacto Social (ODS)
 
 O sistema busca humanizar o atendimento e otimizar recursos, alinhando-se aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU:
-
 * **ODS 3:** Saúde e Bem-Estar.
 * **ODS 16:** Paz, Justiça e Instituições Eficazes (transparência e eficiência em instituições públicas).
 
-## Protótipo de Interface (UI/UX)
+## Protótipo de Interface (UI/UX) e MVP
 
-O design das telas e o fluxo de navegação do aplicativo foram desenvolvidos no Figma, que atua como o nosso Produto Mínimo Viável (MVP) para esta etapa do projeto.
+O design das telas e o fluxo de navegação do aplicativo foram desenvolvidos no Figma, que atua como o nosso Produto Mínimo Viável (MVP) oficial para esta etapa do projeto.
 
- **[Acessar Protótipo no Figma](https://www.figma.com/make/U2mrWrfeIeoJwvnx4yyAb1/Hospital-Check-in-App?p=f&t=5kHQXmxwswEJyfPu-0)**
+**Clique nas imagens abaixo para acessar e interagir com o protótipo no Figma:**
 
-![Tela de Login](imagem_2026-03-28_192822530.png)
-![Tela de Acompanhamento](imagem_2026-03-28_192842956.png)
-![Tela de Avaliação](imagem_2026-03-28_192901183.png)
+<p align="center">
+  <a href="https://www.figma.com/make/U2mrWrfeIeoJwvnx4yyAb1/Hospital-Check-in-App?p=f&t=5kHQXmxwswEJyfPu-0" target="_blank">
+    <img src="imagem_2026-03-28_192822530.png" width="250" alt="Tela de Login" style="margin: 10px;">
+  </a>
+  <a href="https://www.figma.com/make/U2mrWrfeIeoJwvnx4yyAb1/Hospital-Check-in-App?p=f&t=5kHQXmxwswEJyfPu-0" target="_blank">
+    <img src="imagem_2026-03-28_192842956.png" width="250" alt="Tela de Acompanhamento da Fila" style="margin: 10px;">
+  </a>
+  <a href="https://www.figma.com/make/U2mrWrfeIeoJwvnx4yyAb1/Hospital-Check-in-App?p=f&t=5kHQXmxwswEJyfPu-0" target="_blank">
+    <img src="imagem_2026-03-28_192901183.png" width="250" alt="Tela de Avaliação" style="margin: 10px;">
+  </a>
+</p>
 
 ## Fluxo Logístico de Atendimento
+
+Abaixo está o mapeamento visual da jornada do paciente:
 
 ```mermaid
 graph TD
