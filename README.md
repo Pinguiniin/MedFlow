@@ -1,5 +1,4 @@
-# MedFlow
-
+# MedFlow:
 ---
 
 ## Visão Geral do Projeto
@@ -43,13 +42,13 @@ Nesta fase inicial do projeto, o **Figma atua como a nossa plataforma *no-code/l
 
 <p align="center">
   <a href="https://www.figma.com/make/U2mrWrfeIeoJwvnx4yyAb1/Hospital-Check-in-App?p=f&t=5kHQXmxwswEJyfPu-0" target="_blank">
-    <img src="imagem_2026-03-28_192822530.png" width="250" alt="Interface de Login e Check-in" style="margin: 10px;">
+    <img src="imagem_2026-03-28_192822530.png" width="250" alt="Interface de Login e Check-in">
   </a>
   <a href="https://www.figma.com/make/U2mrWrfeIeoJwvnx4yyAb1/Hospital-Check-in-App?p=f&t=5kHQXmxwswEJyfPu-0" target="_blank">
-    <img src="imagem_2026-03-28_192842956.png" width="250" alt="Painel de Monitoramento da Fila" style="margin: 10px;">
+    <img src="imagem_2026-03-28_192842956.png" width="250" alt="Painel de Monitoramento da Fila">
   </a>
   <a href="https://www.figma.com/make/U2mrWrfeIeoJwvnx4yyAb1/Hospital-Check-in-App?p=f&t=5kHQXmxwswEJyfPu-0" target="_blank">
-    <img src="imagem_2026-03-28_192901183.png" width="250" alt="Módulo de Avaliação e Feedback" style="margin: 10px;">
+    <img src="imagem_2026-03-28_192901183.png" width="250" alt="Módulo de Avaliação e Feedback">
   </a>
 </p>
 
@@ -105,6 +104,7 @@ A arquitetura do MedFlow fundamenta-se em um diagnóstico das restrições logí
 
 **A Solução MedFlow:**
 O projeto digitaliza o sequenciamento do atendimento. Ao prover previsibilidade ao paciente, eleva-se a percepção de qualidade do serviço público. Paralelamente, os gestores são municiados com relatórios estruturados, permitindo alocações logísticas precisas e otimização dos recursos operacionais da UBS.
+
 ---
 
 *Documentação estruturada para validação da disciplina de Usina de Projetos Experimentais I (UPX I).*
