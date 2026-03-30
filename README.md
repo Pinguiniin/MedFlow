@@ -1,4 +1,4 @@
-# MedFlow: Sistema de Gestão de Filas e Feedback para UBS
+# MedFlow
 
 ---
 
